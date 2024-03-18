@@ -1,0 +1,3 @@
+{
+  "extends": ["next/image","next/core-web-vitals"]
+}
